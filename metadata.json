@@ -1,0 +1,5 @@
+{
+  "name": "English Buddy AI",
+  "description": "An interactive English speaking practice app with an AI character that helps you learn through real-time conversation.",
+  "requestFramePermissions": ["microphone"]
+}
